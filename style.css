@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(178, 185, 192);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 48px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 32px;
+}
+
+p {
+  text-align: center;
+  font-style: italic;
+}
+
+img {
+  border: 1px solid;
+  border-radius: 4px;
+  padding: 5px;
+  width: 800px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.list {
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+  inline-size: 800px;
+}
+
+ol {
+  display: inline-block;
+  text-align: left;
+  inline-size: 800px;
+}
